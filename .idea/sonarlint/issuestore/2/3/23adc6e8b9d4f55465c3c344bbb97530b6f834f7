@@ -1,0 +1,17 @@
+
+S
+java:S1948"1Make "backgroundImage" transient or serializable.(®òŸ–üÿÿÿÿ8Š  åÀ.
+L
+java:S1068
+"/Remove this unused "startButton" private field.(›­Û”8óŠ”ãÀ.
+O
+java:S1068"2Remove this unused "settingsButton" private field.(²Úİ¦8Ş¼šãÀ.
+]	java:S110"<This class has 6 parents which is greater than 5 authorized.(Ëë¢¡üÿÿÿÿ8‰¦¼âÀ.
+O
+java:S1128"2Remove this unused import 'javax.imageio.ImageIO'.(‘çÔû8Œ“¥åÀ.
+Q
+java:S1068"4Remove this unused "highscoresButton" private field.(ë”¨8¤šãÀ.
+U
+java:S1068"3Remove this unused "backgroundImage" private field.(®òŸ–üÿÿÿÿ8Œ“¥åÀ.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8Œ“¥åÀ.

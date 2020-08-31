@@ -1,0 +1,45 @@
+
+J
+java:S1068"(Remove this unused "dots" private field.(ÿŠåÿÿÿÿÿ8éµé·À.
+n	java:S116"RRename this field "apple_y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·òÓæ8¨¤ß·À.
+G
+java:S2387"*"y" is the name of a field in "Component".(–çĞä8¿ºè·À.
+T
+java:S1068"2Remove this unused "rightDirection" private field.(£ƒêùÿÿÿÿ8Š»í·À.
+H
+java:S1948"&Make "ball" transient or serializable.(Å¸ˆøÿÿÿÿ8é°·À.
+Q
+java:S1068"/Remove this unused "upDirection" private field.(åû­Íûÿÿÿÿ8Š»í·À.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ŒˆØÜÿÿÿÿÿ8¿ºè·À.
+o	java:S116"SRename this field "ALL_DOTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îº¨Õ8©¢è·À.
+s	java:S116"RRename this field "apple_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÒíœøÿÿÿÿ8÷İŞ·À.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(úÉØšúÿÿÿÿ8¿ºè·À.
+U
+java:S1197"8Move the array designator from the variable to the type.(–çĞä8¿ºè·À.
+L
+java:S2387
+"*"x" is the name of a field in "Component".(úÉØšúÿÿÿÿ8£éå·À.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¶×Û…şÿÿÿÿ8¿ºè·À.
+N
+java:S1068"1Remove this unused "downDirection" private field.(½ŞÍÀ8Š»í·À.
+q
+java:S1450"TRemove the "apple" field and declare it as a local variable in the relevant methods.(Í»¨â8ç×·À.
+F
+java:S1068")Remove this unused "apple" private field.(Í»¨â8¿ºè·À.
+K
+java:S1068")Remove this unused "timer" private field.(å¡Ê˜ûÿÿÿÿ8ì«î·À.
+D
+java:S1948"'Make "apple" transient or serializable.(Í»¨â8ç×·À.
+>
+java:S1170"!Make this final field static too.(îº¨Õ8©¢è·À.
+M
+java:S1068"1Remove this unused "leftDirection" private field.(éØØ+8Š»í·À.
+G
+java:S1068
+"%Remove this unused "x" private field.(úÉØšúÿÿÿÿ8¿ºè·À.
+B
+java:S1068"%Remove this unused "y" private field.(–çĞä8¿ºè·À.
